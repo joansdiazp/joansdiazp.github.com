@@ -95,31 +95,3 @@ img{
 }
 
 
-@media (min-height: 550px){
-    .content{
-        height: 500px;
-    }
-}
-@media (max-width: 600px){
-    .content{
-        padding: 0.8em;
-    }
-    .title{
-        margin-top: 0.7em;
-    }
-    .table{
-        text-align: left;
-    }
-    td{
-        display: block;
-        width: 100%;
-    }
-    td:nth-of-type(1){
-        font-size: 2em;
-        font-weight: bold;
-        color: #0a5e8b;
-    }
-    th{
-        display: none;
-    }
-}
