@@ -99,6 +99,14 @@ img{
     .content{
         height: 500px;
     }
+}
+@media (max-width: 600px){
+    .content{
+        padding: 0.8em;
+    }
+    .title{
+        margin-top: 0.7em;
+    }
     .table{
         text-align: left;
     }
@@ -113,13 +121,5 @@ img{
     }
     th{
         display: none;
-    }
-}
-@media (max-width: 600px){
-    .content{
-        padding: 0.8em;
-    }
-    .title{
-        margin-top: 0.7em;
     }
 }
