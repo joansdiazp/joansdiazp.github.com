@@ -113,6 +113,7 @@ ol{
     }
     .title{
         margin-top: 0.7em;
+        padding-top: 1.5em;
     }
     .table{
         text-align: left;
@@ -128,5 +129,8 @@ ol{
     }
     th{
         display: none;
+    }
+    .position{
+        padding: 0.3em;
     }
 }
