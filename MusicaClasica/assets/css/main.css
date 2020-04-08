@@ -106,7 +106,7 @@ ol{
         height: 500px;
     }
 }
-@media (max-width: 650px){
+@media (max-width: 700px){
     .content{
         padding: 0.8em;
         overflow-y: scroll;
