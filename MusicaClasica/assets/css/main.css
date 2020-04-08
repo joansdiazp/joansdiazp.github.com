@@ -31,6 +31,7 @@ a:hover{
     position: relative;
     padding: 1.8em;
     margin-top: 1.3em;
+    overflow-y: scroll;
 }
 .fa-music{
     color: #085078;
