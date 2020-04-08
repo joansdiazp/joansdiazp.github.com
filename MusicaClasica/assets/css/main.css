@@ -132,4 +132,7 @@ ol{
     .position{
         padding: 0.3em;
     }
+    ol{
+        padding-left: 1em;        
+    }
 }
