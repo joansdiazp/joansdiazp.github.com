@@ -109,7 +109,6 @@ ol{
 @media (max-width: 600px){
     .content{
         padding: 0.8em;
-        overflow-y: scroll;
     }
     .title{
         margin-top: 0.7em;
