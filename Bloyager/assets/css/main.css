@@ -2920,7 +2920,7 @@
 			-ms-transition: opacity 1.5s ease-in-out, visibility 1.5s;
 			transition: opacity 1.5s ease-in-out, visibility 1.5s;
 			content: '';
-			background-image: url(../../images/bg.jpg);
+			background-image: url(../../images/travel.jpg);
 			background-attachment: fixed;
 			background-position: center;
 			background-repeat: no-repeat;
@@ -2954,10 +2954,10 @@
 		z-index: 10001;
 	}
 
-		.LogoBloyager{
-			float: left;
-			width: 200px;
+		.Logopng{
+			width: 5.5em;
 		}
+		
 		.logo{
 			font-family: 'Pacifico', cursive;
 		}
@@ -2970,7 +2970,8 @@
 			#header > .logo a {
 				font-size: 4rem;
 				font-weight: 700;
-				color: #FFF;
+				color: #053267;
+				/*color: #FFF;*/
 				text-decoration: none;
 				line-height: 1rem;
 			}
