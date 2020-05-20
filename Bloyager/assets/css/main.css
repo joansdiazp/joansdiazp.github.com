@@ -2313,9 +2313,7 @@
 	.gallery {
 		width: 100%;
 		margin: 0;
-		display: -moz-flex;
-		display: -webkit-flex;
-		display: -ms-flex;
+		
 		display: flex;
 		-moz-flex-wrap: wrap;
 		-webkit-flex-wrap: wrap;
@@ -2352,7 +2350,7 @@
 				width: 100%;
 			}
 
-		}
+		} 
 
 /* Icon */
 
