@@ -1564,6 +1564,11 @@
 			min-width: 320px;
 		}
 
+		.tituloViaje{
+			background-color: #54a354;
+			text-align: center;
+		}
+
 	}
 
 	body {
@@ -1774,6 +1779,10 @@
 
 	.align-center {
 		text-align: center;
+	}
+
+	.justified {
+		text-align: justify;
 	}
 
 	.align-right {
@@ -2365,7 +2374,7 @@
 			-webkit-font-smoothing: antialiased;
 			font-family: FontAwesome;
 			font-style: normal;
-			font-weight: normal;
+			font-weight: bold;
 			text-transform: none !important;
 		}
 
