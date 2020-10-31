@@ -1638,7 +1638,7 @@
 		color: rgba(0, 0, 0, 0.5);
 	}
 
-	body, input, select, textarea {
+	body, input, select, textarea, .fecha {
 		font-family: "Lora", sans-serif;
 		font-weight: 300;
 		font-size: 1rem;
@@ -2914,7 +2914,7 @@
 /* Header */
 
 	body {
-		background-color: #1e1f23;
+		background-color: #ffffff;
 		padding-top: 2rem;
 	}
 
